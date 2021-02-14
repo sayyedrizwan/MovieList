@@ -2,9 +2,7 @@ package com.rizwansayyed.movielistapplication.data
 
 
 import com.google.gson.annotations.SerializedName
-import kotlinx.android.parcel.Parcelize
 
-@Parcelize
 data class MoviesList(
     @SerializedName("page")
     val page: Int,
