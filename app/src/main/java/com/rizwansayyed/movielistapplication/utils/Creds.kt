@@ -8,5 +8,8 @@ class Creds {
         const val EXAMPLE_URL =
             "https://api.themoviedb.org/3/movie/550?api_key=648f513acdf93c14c6c9c2c90709bd7a"
 
+        const val MAIN_URLS = "https://api.themoviedb.org"
+        const val TOP_RATED = "/3/movie/top_rated"
+
     }
 }
